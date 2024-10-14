@@ -1,3 +1,4 @@
+//function to calculate the speed
 function checkspeed(speed){
     const speedlimit =70;
     if (speed < speedlimit){
